@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://mitcherrman.github.io/mogzy-discovery/sitemap.xml
